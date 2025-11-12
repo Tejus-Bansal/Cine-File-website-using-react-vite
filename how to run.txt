@@ -1,0 +1,5 @@
+install node js annd make sure npm works on your system.
+then install the code in a seperate folder
+in terminal run the following command:
+npm i (to install the dependencies)
+npm start (to start the project)
